@@ -25,6 +25,6 @@ ax = world.clip([-90, -55, -25, 15]).plot(color="white", edgecolor="black")
 
 gdf.plot(ax=ax, color="red")
 
-plt.show(block=True)
+plt.show()
 
 # %%
