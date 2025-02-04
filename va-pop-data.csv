@@ -1,0 +1,134 @@
+year,fips,pop2020,pop2024,state,stateCode,growthSince2020,name,county,slug,landArea,density,rank,densityMi,areaMi
+2024,51001,33392,33255,Virginia,VA,-0.004102779,Accomack County,Accomack County,virginia/accomack-county,449,74.06458797,53,74.06458797,449
+2024,51003,112510,116507,Virginia,VA,0.035525731,Albemarle County,Albemarle County,virginia/albemarle-county,720,161.8152778,16,161.8152778,720
+2024,51510,159139,155415,Virginia,VA,-0.023400926,Alexandria city,Alexandria city,virginia/alexandria-city,15,10361,13,10361,15
+2024,51005,15180,14475,Virginia,VA,-0.046442688,Alleghany County,Alleghany County,virginia/alleghany-county,447,32.38255034,101,32.38255034,447
+2024,51007,13267,13592,Virginia,VA,0.024496872,Amelia County,Amelia County,virginia/amelia-county,355,38.28732394,104,38.28732394,355
+2024,51009,31312,31320,Virginia,VA,0.000255493,Amherst County,Amherst County,virginia/amherst-county,474,66.07594937,57,66.07594937,474
+2024,51011,16154,17025,Virginia,VA,0.053918534,Appomattox County,Appomattox County,virginia/appomattox-county,334,50.97305389,88,50.97305389,334
+2024,51013,238814,234646,Virginia,VA,-0.017452913,Arlington County,Arlington County,virginia/arlington-county,26,9024.846154,8,9024.846154,26
+2024,51015,77574,78555,Virginia,VA,0.01264599,Augusta County,Augusta County,virginia/augusta-county,967,81.23578077,28,81.23578077,967
+2024,51017,4185,4041,Virginia,VA,-0.034408602,Bath County,Bath County,virginia/bath-county,529,7.638941399,131,7.638941399,529
+2024,51019,79559,82309,Virginia,VA,0.034565543,Bedford County,Bedford County,virginia/bedford-county,760,108.3013158,26,108.3013158,760
+2024,51021,6256,6220,Virginia,VA,-0.005754476,Bland County,Bland County,virginia/bland-county,358,17.37430168,127,17.37430168,358
+2024,51023,33643,34150,Virginia,VA,0.01507,Botetourt County,Botetourt County,virginia/botetourt-county,541,63.12384473,50,63.12384473,541
+2024,51520,17299,16674,Virginia,VA,-0.036129256,Bristol city,Bristol city,virginia/bristol-city,13,1282.615385,90,1282.615385,13
+2024,51025,15822,15667,Virginia,VA,-0.009796486,Brunswick County,Brunswick County,virginia/brunswick-county,566,27.68021201,95,27.68021201,566
+2024,51027,20245,18791,Virginia,VA,-0.071820203,Buchanan County,Buchanan County,virginia/buchanan-county,503,37.35785288,83,37.35785288,503
+2024,51029,16828,16968,Virginia,VA,0.008319468,Buckingham County,Buckingham County,virginia/buckingham-county,580,29.25517241,89,29.25517241,580
+2024,51530,6622,6563,Virginia,VA,-0.008909695,Buena Vista city,Buena Vista city,virginia/buena-vista-city,6,1093.833333,126,1093.833333,6
+2024,51031,55639,55475,Virginia,VA,-0.002947573,Campbell County,Campbell County,virginia/campbell-county,503,110.2882704,34,110.2882704,503
+2024,51033,30921,33340,Virginia,VA,0.078231623,Caroline County,Caroline County,virginia/caroline-county,527,63.26375712,52,63.26375712,527
+2024,51035,29148,29360,Virginia,VA,0.007273226,Carroll County,Carroll County,virginia/carroll-county,475,61.81052632,59,61.81052632,475
+2024,51036,6746,6652,Virginia,VA,-0.013934183,Charles City County,Charles City County,virginia/charles-city-county,183,36.34972678,125,36.34972678,183
+2024,51037,11542,11272,Virginia,VA,-0.023392826,Charlotte County,Charlotte County,virginia/charlotte-county,475,23.73052632,110,23.73052632,475
+2024,51540,46469,44694,Virginia,VA,-0.038197508,Charlottesville city,Charlottesville city,virginia/charlottesville-city,10,4469.4,39,4469.4,10
+2024,51550,249781,255313,Virginia,VA,0.022147401,Chesapeake city,Chesapeake city,virginia/chesapeake-city,338,755.3639053,7,755.3639053,338
+2024,51041,365311,389462,Virginia,VA,0.066110793,Chesterfield County,Chesterfield County,virginia/chesterfield-county,424,918.5424528,5,918.5424528,424
+2024,51043,14814,15601,Virginia,VA,0.053125422,Clarke County,Clarke County,virginia/clarke-county,176,88.64204545,96,88.64204545,176
+2024,51570,18189,18508,Virginia,VA,0.017538072,Colonial Heights city,Colonial Heights city,virginia/colonial-heights-city,8,2313.5,84,2313.5,8
+2024,51580,5745,5457,Virginia,VA,-0.050130548,Covington city,Covington city,virginia/covington-city,5,1091.4,128,1091.4,5
+2024,51045,4875,4828,Virginia,VA,-0.009641026,Craig County,Craig County,virginia/craig-county,328,14.7195122,130,14.7195122,328
+2024,51047,52768,55656,Virginia,VA,0.054730139,Culpeper County,Culpeper County,virginia/culpeper-county,379,146.8496042,33,146.8496042,379
+2024,51049,9666,10005,Virginia,VA,0.035071384,Cumberland County,Cumberland County,virginia/cumberland-county,297,33.68686869,116,33.68686869,297
+2024,51590,42579,41657,Virginia,VA,-0.021653867,Danville city,Danville city,virginia/danville-city,43,968.7674419,44,968.7674419,43
+2024,51051,14074,13547,Virginia,VA,-0.037444934,Dickenson County,Dickenson County,virginia/dickenson-county,330,41.05151515,105,41.05151515,330
+2024,51053,27891,28587,Virginia,VA,0.024954286,Dinwiddie County,Dinwiddie County,virginia/dinwiddie-county,504,56.7202381,64,56.7202381,504
+2024,51595,5707,5393,Virginia,VA,-0.055020151,Emporia city,Emporia city,virginia/emporia-city,7,770.4285714,129,770.4285714,7
+2024,51057,10598,10566,Virginia,VA,-0.003019438,Essex County,Essex County,virginia/essex-county,257,41.11284047,115,41.11284047,257
+2024,51600,24177,25536,Virginia,VA,0.056210448,Fairfax city,Fairfax city,virginia/fairfax-city,6,4256,70,4256,6
+2024,51059,1148627,1144447,Virginia,VA,-0.003639127,Fairfax County,Fairfax County,virginia/fairfax-county,391,2926.974425,1,2926.974425,391
+2024,51610,14681,14881,Virginia,VA,0.01362305,Falls Church city,Falls Church city,virginia/falls-church-city,2,7440.5,99,7440.5,2
+2024,51061,73006,75653,Virginia,VA,0.036257294,Fauquier County,Fauquier County,virginia/fauquier-county,648,116.7484568,29,116.7484568,648
+2024,51063,15470,15735,Virginia,VA,0.017129929,Floyd County,Floyd County,virginia/floyd-county,381,41.2992126,94,41.2992126,381
+2024,51065,27294,28807,Virginia,VA,0.055433429,Fluvanna County,Fluvanna County,virginia/fluvanna-county,287,100.3728223,63,100.3728223,287
+2024,51620,8146,8404,Virginia,VA,0.031671986,Franklin city,Franklin city,virginia/franklin-city,8,1050.5,119,1050.5,8
+2024,51067,54482,56019,Virginia,VA,0.028211152,Franklin County,Franklin County,virginia/franklin-county,691,81.06946454,32,81.06946454,691
+2024,51069,91870,97180,Virginia,VA,0.057799064,Frederick County,Frederick County,virginia/frederick-county,413,235.3026634,21,235.3026634,413
+2024,51630,27991,29208,Virginia,VA,0.043478261,Fredericksburg city,Fredericksburg city,virginia/fredericksburg-city,10,2920.8,61,2920.8,10
+2024,51640,6715,6732,Virginia,VA,0.002531646,Galax city,Galax city,virginia/galax-city,8,841.5,122,841.5,8
+2024,51071,16786,16482,Virginia,VA,-0.01811033,Giles County,Giles County,virginia/giles-county,357,46.16806723,91,46.16806723,357
+2024,51073,38722,40564,Virginia,VA,0.047569857,Gloucester County,Gloucester County,virginia/gloucester-county,218,186.0733945,46,186.0733945,218
+2024,51075,24855,28232,Virginia,VA,0.135868035,Goochland County,Goochland County,virginia/goochland-county,282,100.1134752,65,100.1134752,282
+2024,51077,15281,15245,Virginia,VA,-0.002355867,Grayson County,Grayson County,virginia/grayson-county,442,34.49095023,98,34.49095023,442
+2024,51079,20607,21587,Virginia,VA,0.047556656,Greene County,Greene County,virginia/greene-county,156,138.3782051,79,138.3782051,156
+2024,51081,11386,11062,Virginia,VA,-0.028455999,Greensville County,Greensville County,virginia/greensville-county,295,37.49830508,111,37.49830508,295
+2024,51083,33926,33244,Virginia,VA,-0.020102576,Halifax County,Halifax County,virginia/halifax-county,818,40.6405868,54,40.6405868,818
+2024,51650,137280,136338,Virginia,VA,-0.006861888,Hampton city,Hampton city,virginia/hampton-city,51,2673.294118,15,2673.294118,51
+2024,51085,110202,115436,Virginia,VA,0.047494601,Hanover County,Hanover County,virginia/hanover-county,468,246.6581197,17,246.6581197,468
+2024,51660,51706,51014,Virginia,VA,-0.01338336,Harrisonburg city,Harrisonburg city,virginia/harrisonburg-city,17,3000.823529,36,3000.823529,17
+2024,51087,334905,334967,Virginia,VA,0.000185127,Henrico County,Henrico County,virginia/henrico-county,234,1431.482906,6,1431.482906,234
+2024,51089,50851,49609,Virginia,VA,-0.024424298,Henry County,Henry County,virginia/henry-county,382,129.8664921,37,129.8664921,382
+2024,51091,2240,2382,Virginia,VA,0.063392857,Highland County,Highland County,virginia/highland-county,415,5.739759036,133,5.739759036,415
+2024,51670,23009,22714,Virginia,VA,-0.01282107,Hopewell city,Hopewell city,virginia/hopewell-city,10,2271.4,75,2271.4,10
+2024,51093,38707,41287,Virginia,VA,0.06665461,Isle of Wight County,Isle of Wight County,virginia/isle-of-wight-county,316,130.6550633,45,130.6550633,316
+2024,51095,78487,83825,Virginia,VA,0.068011263,James City County,James City County,virginia/james-city-county,142,590.3169014,25,590.3169014,142
+2024,51097,6588,6726,Virginia,VA,0.020947177,King and Queen County,King and Queen County,virginia/king-and-queen-county,315,21.35238095,123,21.35238095,315
+2024,51099,26826,29218,Virginia,VA,0.089167226,King George County,King George County,virginia/king-george-county,180,162.3222222,60,162.3222222,180
+2024,51101,17918,19531,Virginia,VA,0.090021208,King William County,King William County,virginia/king-william-county,274,71.2810219,81,71.2810219,274
+2024,51103,10903,10912,Virginia,VA,0.000825461,Lancaster County,Lancaster County,virginia/lancaster-county,133,82.04511278,112,82.04511278,133
+2024,51105,22108,21643,Virginia,VA,-0.02103311,Lee County,Lee County,virginia/lee-county,435,49.75402299,78,49.75402299,435
+2024,51678,7324,7550,Virginia,VA,0.030857455,Lexington city,Lexington city,virginia/lexington-city,2,3775,120,3775,2
+2024,51107,422705,439902,Virginia,VA,0.040683219,Loudoun County,Loudoun County,virginia/loudoun-county,516,852.5232558,4,852.5232558,516
+2024,51109,37796,42044,Virginia,VA,0.112392846,Louisa County,Louisa County,virginia/louisa-county,495,84.93737374,43,84.93737374,495
+2024,51111,11947,12074,Virginia,VA,0.010630284,Lunenburg County,Lunenburg County,virginia/lunenburg-county,432,27.94907407,108,27.94907407,432
+2024,51680,78979,79842,Virginia,VA,0.010926955,Lynchburg city,Lynchburg city,virginia/lynchburg-city,49,1629.428571,27,1629.428571,49
+2024,51113,13861,14248,Virginia,VA,0.027920063,Madison County,Madison County,virginia/madison-county,321,44.38629283,102,44.38629283,321
+2024,51683,42692,42719,Virginia,VA,0.000632437,Manassas city,Manassas city,virginia/manassas-city,10,4271.9,41,4271.9,10
+2024,51685,17162,16029,Virginia,VA,-0.066017947,Manassas Park city,Manassas Park city,virginia/manassas-park-city,3,5343,92,5343,3
+2024,51690,13474,13829,Virginia,VA,0.026347039,Martinsville city,Martinsville city,virginia/martinsville-city,11,1257.181818,103,1257.181818,11
+2024,51115,8518,8578,Virginia,VA,0.007043907,Mathews County,Mathews County,virginia/mathews-county,86,99.74418605,118,99.74418605,86
+2024,51117,30283,30769,Virginia,VA,0.016048608,Mecklenburg County,Mecklenburg County,virginia/mecklenburg-county,625,49.2304,58,49.2304,625
+2024,51119,10614,10896,Virginia,VA,0.026568683,Middlesex County,Middlesex County,virginia/middlesex-county,130,83.81538462,113,83.81538462,130
+2024,51121,99574,98506,Virginia,VA,-0.010725691,Montgomery County,Montgomery County,virginia/montgomery-county,387,254.5374677,19,254.5374677,387
+2024,51125,14740,14663,Virginia,VA,-0.005223881,Nelson County,Nelson County,virginia/nelson-county,471,31.13163482,100,31.13163482,471
+2024,51127,23123,27316,Virginia,VA,0.181334602,New Kent County,New Kent County,virginia/new-kent-county,210,130.0761905,68,130.0761905,210
+2024,51700,186047,182256,Virginia,VA,-0.020376572,Newport News city,Newport News city,virginia/newport-news-city,69,2641.391304,11,2641.391304,69
+2024,51710,237789,229302,Virginia,VA,-0.035691306,Norfolk city,Norfolk city,virginia/norfolk-city,53,4326.45283,10,4326.45283,53
+2024,51131,12213,12064,Virginia,VA,-0.012200115,Northampton County,Northampton County,virginia/northampton-county,212,56.90566038,109,56.90566038,212
+2024,51133,11841,12504,Virginia,VA,0.055991893,Northumberland County,Northumberland County,virginia/northumberland-county,191,65.46596859,107,65.46596859,191
+2024,51720,3681,3395,Virginia,VA,-0.077696278,Norton city,Norton city,virginia/norton-city,7,485,132,485,7
+2024,51135,15647,15577,Virginia,VA,-0.004473701,Nottoway County,Nottoway County,virginia/nottoway-county,314,49.60828025,97,49.60828025,314
+2024,51137,36397,39093,Virginia,VA,0.074072039,Orange County,Orange County,virginia/orange-county,341,114.6422287,47,114.6422287,341
+2024,51139,23691,23705,Virginia,VA,0.000590942,Page County,Page County,virginia/page-county,310,76.46774194,73,76.46774194,310
+2024,51141,17591,17417,Virginia,VA,-0.009891422,Patrick County,Patrick County,virginia/patrick-county,483,36.06004141,86,36.06004141,483
+2024,51730,33396,33156,Virginia,VA,-0.007186489,Petersburg city,Petersburg city,virginia/petersburg-city,23,1441.565217,55,1441.565217,23
+2024,51143,60367,59318,Virginia,VA,-0.017377044,Pittsylvania County,Pittsylvania County,virginia/pittsylvania-county,969,61.21568627,31,61.21568627,969
+2024,51735,12473,12646,Virginia,VA,0.013869959,Poquoson city,Poquoson city,virginia/poquoson-city,15,843.0666667,106,843.0666667,15
+2024,51740,97955,96632,Virginia,VA,-0.013506202,Portsmouth city,Portsmouth city,virginia/portsmouth-city,33,2928.242424,23,2928.242424,33
+2024,51145,30450,32625,Virginia,VA,0.071428571,Powhatan County,Powhatan County,virginia/powhatan-county,260,125.4807692,56,125.4807692,260
+2024,51147,21906,22199,Virginia,VA,0.013375331,Prince Edward County,Prince Edward County,virginia/prince-edward-county,350,63.42571429,76,63.42571429,350
+2024,51149,43073,42721,Virginia,VA,-0.008172173,Prince George County,Prince George County,virginia/prince-george-county,265,161.2113208,40,161.2113208,265
+2024,51153,482834,492268,Virginia,VA,0.019538806,Prince William County,Prince William County,virginia/prince-william-county,335,1469.456716,2,1469.456716,335
+2024,51155,33807,33627,Virginia,VA,-0.005324341,Pulaski County,Pulaski County,virginia/pulaski-county,320,105.084375,51,105.084375,320
+2024,51750,16119,17223,Virginia,VA,0.068490601,Radford city,Radford city,virginia/radford-city,10,1722.3,87,1722.3,10
+2024,51157,7320,7375,Virginia,VA,0.007513661,Rappahannock County,Rappahannock County,virginia/rappahannock-county,266,27.72556391,121,27.72556391,266
+2024,51760,226936,230127,Virginia,VA,0.014061233,Richmond city,Richmond city,virginia/richmond-city,60,3835.45,9,3835.45,60
+2024,51159,8919,9242,Virginia,VA,0.036214822,Richmond County,Richmond County,virginia/richmond-county,191,48.38743455,117,48.38743455,191
+2024,51770,99891,96685,Virginia,VA,-0.032094984,Roanoke city,Roanoke city,virginia/roanoke-city,43,2248.488372,22,2248.488372,43
+2024,51161,96923,97296,Virginia,VA,0.003848416,Roanoke County,Roanoke County,virginia/roanoke-county,251,387.6334661,20,387.6334661,251
+2024,51163,22650,22148,Virginia,VA,-0.022163355,Rockbridge County,Rockbridge County,virginia/rockbridge-county,597,37.09882747,77,37.09882747,597
+2024,51165,83774,87722,Virginia,VA,0.047126794,Rockingham County,Rockingham County,virginia/rockingham-county,850,103.2023529,24,103.2023529,850
+2024,51167,25757,25517,Virginia,VA,-0.009317855,Russell County,Russell County,virginia/russell-county,474,53.83333333,71,53.83333333,474
+2024,51775,25403,25500,Virginia,VA,0.003818447,Salem city,Salem city,virginia/salem-city,15,1700,72,1700,15
+2024,51169,21589,21386,Virginia,VA,-0.009402937,Scott County,Scott County,virginia/scott-county,536,39.89925373,80,39.89925373,536
+2024,51171,44265,45520,Virginia,VA,0.028351971,Shenandoah County,Shenandoah County,virginia/shenandoah-county,508,89.60629921,38,89.60629921,508
+2024,51173,29787,29024,Virginia,VA,-0.025615201,Smyth County,Smyth County,virginia/smyth-county,451,64.35476718,62,64.35476718,451
+2024,51175,17953,18051,Virginia,VA,0.005458698,Southampton County,Southampton County,virginia/southampton-county,599,30.13522538,85,30.13522538,599
+2024,51177,140604,152348,Virginia,VA,0.083525362,Spotsylvania County,Spotsylvania County,virginia/spotsylvania-county,402,378.9751244,14,378.9751244,402
+2024,51179,157765,167687,Virginia,VA,0.062891009,Stafford County,Stafford County,virginia/stafford-county,269,623.3717472,12,623.3717472,269
+2024,51790,25812,25890,Virginia,VA,0.00302185,Staunton city,Staunton city,virginia/staunton-city,20,1294.5,69,1294.5,20
+2024,51800,94750,102892,Virginia,VA,0.085931398,Suffolk city,Suffolk city,virginia/suffolk-city,399,257.8746867,18,257.8746867,399
+2024,51181,6551,6659,Virginia,VA,0.016486033,Surry County,Surry County,virginia/surry-county,279,23.86738351,124,23.86738351,279
+2024,51183,10787,10874,Virginia,VA,0.008065264,Sussex County,Sussex County,virginia/sussex-county,490,22.19183673,114,22.19183673,490
+2024,51185,40407,38677,Virginia,VA,-0.042814364,Tazewell County,Tazewell County,virginia/tazewell-county,519,74.522158,48,74.522158,519
+2024,51810,459684,452229,Virginia,VA,-0.016217663,Virginia Beach city,Virginia Beach city,virginia/virginia-beach-city,245,1845.832653,3,1845.832653,245
+2024,51187,40792,42282,Virginia,VA,0.03652677,Warren County,Warren County,virginia/warren-county,215,196.6604651,42,196.6604651,215
+2024,51191,53895,54245,Virginia,VA,0.006494109,Washington County,Washington County,virginia/washington-county,561,96.69340463,35,96.69340463,561
+2024,51820,22279,23565,Virginia,VA,0.057722519,Waynesboro city,Waynesboro city,virginia/waynesboro-city,15,1571,74,1571,15
+2024,51193,18511,19261,Virginia,VA,0.04051645,Westmoreland County,Westmoreland County,virginia/westmoreland-county,229,84.10917031,82,84.10917031,229
+2024,51830,15471,16009,Virginia,VA,0.03477474,Williamsburg city,Williamsburg city,virginia/williamsburg-city,9,1778.777778,93,1778.777778,9
+2024,51840,28013,27373,Virginia,VA,-0.022846536,Winchester city,Winchester city,virginia/winchester-city,9,3041.444444,67,3041.444444,9
+2024,51195,36064,35021,Virginia,VA,-0.028920807,Wise County,Wise County,virginia/wise-county,403,86.90074442,49,86.90074442,403
+2024,51197,28324,28093,Virginia,VA,-0.008155628,Wythe County,Wythe County,virginia/wythe-county,462,60.80735931,66,60.80735931,462
+2024,51199,70232,70740,Virginia,VA,0.00723317,York County,York County,virginia/york-county,105,673.7142857,30,673.7142857,105
